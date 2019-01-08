@@ -1,4 +1,6 @@
-[![Build Status](https://travis-ci.org/grpc/grpc-swift.svg?branch=master)](https://travis-ci.org/grpc/grpc-swift)
+# Update grpc-core 1.17.0
+
+pod 'SwiftGRPC', :git => 'https://github.com/11os/grpc-swift.git'
 
 # Swift gRPC
 
